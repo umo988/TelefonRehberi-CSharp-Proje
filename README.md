@@ -7,6 +7,15 @@
 <li> Visual Studio (X bir sürüm yeterli olacaktır)</li>
 </ul>
 
+## Proje Tanıtımı
+
+Bu proje, 12. sınıf "Yazılım Projesi" dersi kapsamında geliştirilen bir uygulamayı içermektedir. Bu belge, projenin genel yapısı, kullanılan teknolojiler, nasıl kullanılacağı, geliştirme süreci ve diğer önemli bilgileri içermektedir.
+
+## Oluşabilecek sorunlar
+
+**S: [XAMPP MySQL'i çalıştırırken hata veriyorsa. // Veya tıkladığınızda hemen kapanıyorsa...]** <br>
+C: [Başka bir SQL programı varsa. Denetim masasından kaldırın.]
+
 ## Database oluşturma!
 
 <ul>
